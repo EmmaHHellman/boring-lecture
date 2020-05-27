@@ -1,0 +1,17 @@
+h2.intro {
+  font-weight: 300;
+  font-style: italic
+}
+
+p.intro {
+  color: red;
+  line-height: 30px;
+}
+
+img.intro {
+  color: darkorchid;
+  color-interpolation-filters: inherit;
+  border-style: solid;
+  border: indianred;
+  border-width: 5px;
+}
