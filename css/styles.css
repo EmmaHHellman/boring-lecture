@@ -15,3 +15,8 @@ img.intro {
   border: indianred;
   border-width: 5px;
 }
+
+.highlight {
+  background-color: yellow;
+  border: 5px black solid;
+}
